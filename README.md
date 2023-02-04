@@ -2,22 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=D3423F&center=true&vCenter=true&width=846&height=30&lines=Back-end+J%C3%BAnior+na+SASI;Full-stack+nas+horas+vagas;Comecei+no+C+em+2014;Sempre+curioso+para+aprender)](https://git.io/typing-svg)
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MaoDoBan's streak" src="https://streak-stats.demolab.com/?user=MaoDoBan&theme=monokai-metallian&hide_border=true&locale=pt_BR"/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" style="scale:0.99;">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MaoDoBan's streak" src="https://streak-stats.demolab.com/?user=MaoDoBan&theme=monokai-metallian&hide_border=true&locale=pt_BR&sideLabels=D3423F&currStreakLabel=D3423F&background=282B30" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="MaoDoBan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaoDoBan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=D3423F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+<a href="https://github.com/anuraghazra/github-readme-stats" style="scale:0.99;">
+  <img alt="MaoDoBan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaoDoBan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=282B30&title_color=D3423F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" />
 </a>
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="MaoDoBan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MaoDoBan&bg_color=1F222E&color=F8D866&line=D3423F&point=FFFFFF&hide_border=true" />
+    <img alt="MaoDoBan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MaoDoBan&bg_color=282B30&color=F8D866&line=D3423F&point=FFFFFF&hide_border=true" />
 </a>
 <br/>
 
-<a href="https://www.linkedin.com/in/marcos-kunz/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://discord.gg/SdB4nff" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&label=HyClan%20Brasil">
-</a>
+<div style="margin: auto;">
+  <a href="https://www.linkedin.com/in/marcos-kunz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://discord.gg/SdB4nff" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=HyClan%20Brasil&logoColor=white">
+  </a>
+</div>
