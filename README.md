@@ -8,12 +8,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="MaoDoBan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaoDoBan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=282B30&title_color=D3423F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&locale=pt-br" height="192px" />
 </a>
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="MaoDoBan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MaoDoBan&bg_color=282B30&color=F8D866&line=D3423F&point=FFFFFF&hide_border=true&hide_title=true" />
 </a>
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-kunz/" target="_blank">
