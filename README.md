@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="MaoDoBan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MaoDoBan&bg_color=282B30&color=F8D866&line=D3423F&point=FFFFFF&hide_border=true" />
+  <img alt="MaoDoBan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MaoDoBan&bg_color=282B30&color=F8D866&line=D3423F&point=FFFFFF&hide_border=true&custom_title=This%20is%20a%20title" />
 </a>
 <br/>
 
