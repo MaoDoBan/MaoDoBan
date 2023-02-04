@@ -20,6 +20,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://discord.gg/SdB4nff" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=HyClan%20Brasil&logoColor=white">
+    <img src="https://img.shields.io/badge/-HyClan-%237289DA?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
 </p>
