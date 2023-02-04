@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=D3423F&center=true&vCenter=true&width=435&lines=M%C3%A3o+do+Ban;Marcos+Kunz;Ban+Hand)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=D3423F&center=true&vCenter=true&width=500&lines=Back-end+J%C3%BAnior+na+SASI;Full-stack+nas+horas+vagas;Comecei+no+C+em+2014;Sempre+curioso+para+aprender)](https://git.io/typing-svg)
 
 <!--
 **MaoDoBan/MaoDoBan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
