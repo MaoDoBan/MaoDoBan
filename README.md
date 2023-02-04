@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=4000&pause=1500&color=D3423F&center=true&vCenter=true&width=846&lines=M%C3%A3o+do+Ban;Marcos+Kunz;Ban+Hand)](https://github.com/MaoDoBan)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=D3423F&center=true&vCenter=true&width=846&height=30&lines=Back-end+J%C3%BAnior+na+SASI;Full-stack+nas+horas+vagas;Comecei+no+C+em+2014;Sempre+curioso+para+aprender)](https://git.io/typing-svg){:target="_blank"}
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=D3423F&center=true&vCenter=true&width=846&height=30&lines=Back-end+J%C3%BAnior+na+SASI;Full-stack+nas+horas+vagas;Comecei+no+C+em+2014;Sempre+curioso+para+aprender)](https://git.io/typing-svg)
 
 <a href="https://git.io/streak-stats">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MaoDoBan's streak" src="https://streak-stats.demolab.com/?user=MaoDoBan&theme=monokai-metallian&hide_border=true&locale=pt_BR&sideLabels=D3423F&currStreakLabel=D3423F&background=282B30" height="192px" />
@@ -23,5 +23,3 @@
     <img src="https://img.shields.io/badge/-HyClan%20Brasil-%237289DA?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
 </p>
-
-[link](https://www.linkedin.com/in/marcos-kunz/){:target="_blank"}
