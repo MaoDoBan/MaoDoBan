@@ -6,7 +6,7 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MaoDoBan's streak" src="https://streak-stats.demolab.com/?user=MaoDoBan&theme=monokai-metallian&hide_border=true&locale=pt_BR&sideLabels=D3423F&currStreakLabel=D3423F&background=282B30&border_radius=0" height="191px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="MaoDoBan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaoDoBan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=282B30&title_color=D3423F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&locale=pt-br&border_radius=0" height="192px" />
+  <img alt="MaoDoBan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaoDoBan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=282B30&title_color=D3423F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&locale=pt-br&border_radius=0" height="193px" />
 </a>
 <br/>
 
