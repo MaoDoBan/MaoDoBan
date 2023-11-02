@@ -16,9 +16,6 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-kunz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="https://discord.gg/SdB4nff" target="_blank">
     <img src="https://img.shields.io/badge/-HyClan%20BR-%237289DA?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
